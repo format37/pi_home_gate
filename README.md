@@ -2,6 +2,6 @@
 open/close door telegram report
 
 # components:
-rpi zero w
-camera
-Reed switch
+rpi zero w,
+camera,
+Reed switch,
