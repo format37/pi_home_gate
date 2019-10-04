@@ -11,7 +11,7 @@ GPIO.setup(12, GPIO.IN)
 laststate='0'
 newstate='0'
 filepath = 'photo.jpg'
-group='-1001382003751'
+group=PASTE_GROUP_ID_THERE
 
 def callBackRising(channel):
 	global newstate
