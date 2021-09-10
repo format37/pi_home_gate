@@ -8,3 +8,7 @@ Reed switch
 ```
 sudo nano /etc/rc.local
 ```
+Before exit:
+```
+python3 /home/pi/gate.py
+```
