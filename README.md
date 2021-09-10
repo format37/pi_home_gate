@@ -6,9 +6,6 @@ camera
 Reed switch   
 ### Run on startup
 ```
-sudo nano /etc/rc.local
-```
-Before exit:
-```
-python3 /home/pi/gate.py
+#crontab -e
+@reboot  /home/pi/start.sh
 ```
