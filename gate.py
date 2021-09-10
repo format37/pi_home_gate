@@ -1,7 +1,6 @@
 import RPi.GPIO as GPIO
 from time import sleep
 import datetime
-import subprocess
 import picamera
 import requests
 import os
