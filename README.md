@@ -1,5 +1,5 @@
 #### pi_home_gate
-open/close door telegram report
+Open / Close door telegram report
 ### components:
 - Raspberry pi zero w   
 - Camera   
